@@ -42,7 +42,7 @@ index.html     → Portfolio home page
 If you would like to contact me, collaborate, or see more of my work:
 
 **LinkedIn:** linkedin.com/in/kevin
-**Email:** *(the one you use in your portfolio, I can add it if you want)*
+**Email:** kevin.melgar2112@mailcon
 
 
 ## 📄 License
