@@ -29,6 +29,8 @@ My approach is always the same: **every detail should look elegant, minimalist, 
 ## 📁 Project structure
 
 ```
+/Documents
+/Skills
 /Media         → Images, icons, portfolio assets  
 style.css      → All stylesheets  
 sliders.js      → Carousel, sliders, and event logic  
